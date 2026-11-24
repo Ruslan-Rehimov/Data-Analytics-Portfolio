@@ -1,6 +1,6 @@
 📊 Data Analytics Portfolio
 ----------------------------------------------
-SQL | Power BI | Python
+SQL | Power BI | Python____
 A collection of practical Data Analytics exercises and projects focused on data querying, transformation, cleaning, analysis, and visualization.
 __________________________________
 
