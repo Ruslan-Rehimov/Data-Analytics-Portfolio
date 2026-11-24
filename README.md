@@ -110,8 +110,7 @@ Exploratory Data Analysis (EDA)
 __________________________________
 Descriptive Statistics and Correlation Analysis
 __________________________________
-
-📁 Repository Structure
+```
 ----------------------------
 Data-Analytics-Portfolio/
 │
