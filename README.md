@@ -13,7 +13,7 @@ It focuses on developing practical technical skills through structured exercises
 
 
 🛠️ Technical Skills
----------------------------------------------------------
+__________________________________
 
 🗄️ SQL (Oracle)
 ----------------------------------------------------------
