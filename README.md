@@ -4,16 +4,19 @@ SQL | Power BI | Python
 
 A collection of practical Data Analytics exercises and projects focused on data querying, transformation, cleaning, analysis, and visualization.
 
-👨‍💻 About
 
+👨‍💻 About
+------------------------------------------------
 This repository showcases my work in Data Analytics, including SQL database querying, Power BI reporting, and Python-based data analysis.
 
 It focuses on developing practical technical skills through structured exercises and business-oriented analytical tasks.
 
-🛠️ Technical Skills
 
+🛠️ Technical Skills
+---------------------------------------------------------
 
 🗄️ SQL (Oracle)
+----------------------------------------------------------
 
 
 Basic Queries and Data Filtering
@@ -55,7 +58,7 @@ PIVOT and UNPIVOT
 
 
 📈 Power BI
-
+--------------------------------------------------
 
 Data Import: Excel, CSV and SQL
 
@@ -87,7 +90,7 @@ KPI Cards, Slicers, Matrix and Conditional Formatting
 
 
 🐍 Python
-
+-----------------------------------------------------
 
 Python Fundamentals: Variables, Data Types, Conditions, Loops and Functions
 
