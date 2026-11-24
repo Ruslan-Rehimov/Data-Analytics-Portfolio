@@ -1,18 +1,20 @@
-# Data-Analytics-Portfolio
-Data Analytics Portfolio | SQL, Power BI, Python
+📊 Data Analytics Portfolio
+
+SQL | Power BI | Python
+
+A collection of practical Data Analytics exercises and projects focused on data querying, transformation, cleaning, analysis, and visualization.
+
+👨‍💻 About
+
+This repository showcases my work in Data Analytics, including SQL database querying, Power BI reporting, and Python-based data analysis.
+
+It focuses on developing practical technical skills through structured exercises and business-oriented analytical tasks.
+
+🛠️ Technical Skills
 
 
+🗄️ SQL (Oracle)
 
-About
-
-
-This repository contains practical work and projects in Data Analytics, covering SQL database querying, Power BI reporting, Python-based data analysis, data cleaning, transformation, and visualization.
-
-The goal is to demonstrate technical skills through structured exercises and practical projects based on real-world business scenarios.
-
-Technical Skills
-
-SQL (Oracle)
 
 Basic Queries and Data Filtering
 
@@ -26,7 +28,13 @@ Subqueries and Correlated Subqueries
 
 Common Table Expressions (CTEs)
 
-Analytic / Window Functions: ROW_NUMBER, RANK, DENSE_RANK, LAG, LEAD, FIRST_VALUE, LAST_VALUE, NTILE
+Analytic / Window Functions:
+
+ROW_NUMBER, RANK, DENSE_RANK
+
+LAG, LEAD
+
+FIRST_VALUE, LAST_VALUE, NTILE
 
 CASE WHEN and Conditional Functions
 
@@ -46,8 +54,8 @@ PIVOT and UNPIVOT
 
 
 
+📈 Power BI
 
-Power BI
 
 Data Import: Excel, CSV and SQL
 
@@ -61,7 +69,15 @@ Cardinality and Star Schema
 
 DAX Calculated Columns and Measures
 
-DAX Functions: CALCULATE, FILTER, ALL, SUM, AVERAGE, DIVIDE, COUNT, DISTINCTCOUNT, IF, SWITCH
+DAX Functions:
+
+CALCULATE, FILTER, ALL
+
+SUM, AVERAGE, DIVIDE
+
+COUNT, DISTINCTCOUNT
+
+IF, SWITCH
 
 Time Intelligence and Calendar Tables
 
@@ -70,10 +86,8 @@ Data Visualization and Dashboard Development
 KPI Cards, Slicers, Matrix and Conditional Formatting
 
 
+🐍 Python
 
-
-
-Python
 
 Python Fundamentals: Variables, Data Types, Conditions, Loops and Functions
 
@@ -94,19 +108,3 @@ Seaborn: Countplot, Barplot, Histplot, Boxplot, Heatmap and Pairplot
 Exploratory Data Analysis (EDA)
 
 Descriptive Statistics and Correlation Analysis
-
-
-
-Repository Structure
-
-01-SQL: SQL queries, database operations, analytical functions and banking data analysis.
-
-02-Power-BI: Data transformation, data modeling, DAX, visualization and dashboard projects.
-
-03-Python: NumPy, Pandas, data cleaning, analysis and visualization projects.
-
-Business Performance Reporting
-
-Objective
-
-Applying SQL, Power BI and Python to analyze data, identify business insights and support data-driven decision-making.
