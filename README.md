@@ -1,7 +1,10 @@
 # Data-Analytics-Portfolio
 Data Analytics Portfolio | SQL, Power BI, Python
 
+
+
 About
+
 
 This repository contains practical work and projects in Data Analytics, covering SQL database querying, Power BI reporting, Python-based data analysis, data cleaning, transformation, and visualization.
 
@@ -41,6 +44,9 @@ Views, DML and DDL
 
 PIVOT and UNPIVOT
 
+
+
+
 Power BI
 
 Data Import: Excel, CSV and SQL
@@ -63,6 +69,10 @@ Data Visualization and Dashboard Development
 
 KPI Cards, Slicers, Matrix and Conditional Formatting
 
+
+
+
+
 Python
 
 Python Fundamentals: Variables, Data Types, Conditions, Loops and Functions
@@ -84,6 +94,7 @@ Seaborn: Countplot, Barplot, Histplot, Boxplot, Heatmap and Pairplot
 Exploratory Data Analysis (EDA)
 
 Descriptive Statistics and Correlation Analysis
+
 
 
 Repository Structure
